@@ -1,4 +1,4 @@
-# sevlet-curso-caelum
+# sevlet-curso-caelum parte 1
 Entenda o que é um Servlet
 Mapeie requisições HTTP e trabalhe com POST e GET
 Gere HTML dinamicamente com JSP e JSTL
